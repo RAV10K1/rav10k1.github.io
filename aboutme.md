@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: How can I help you?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ravindra Tennekone, or Ravi for short. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
