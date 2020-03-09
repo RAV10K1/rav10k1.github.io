@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  2020-3-6-A Visualization of Deposits Held by US Financial Institutions (1934
-  to 2018)
+title: 2020-3-6-Deposits Held by US Financial Institutions (1934 to 2018)
 subtitle: Welcome to my first blogpost!
 gh-repo: RAV10K1/rav10k1.github.io
 gh-badge:
@@ -58,5 +56,4 @@ On average around 83% of deposits were held in the form of savings and time depo
 
 ## Summary
 
-The deposit base of the United States has grown steadily over time but the number of financial institutions operating in the country has decreased to all time lows. Through booms and busts in the economic cycle, money has continued to circulate and generate more wealth enabling people to buy homes, start businesses and make capital investments to enhance standards of living.  
-
+The deposit base of the United States has grown steadily over time but the number of financial institutions operating in the country has decreased to all time lows. Through booms and busts in the economic cycle, money has continued to circulate and generate more wealth enabling people to buy homes, start businesses and make capital investments to enhance standards of living.
