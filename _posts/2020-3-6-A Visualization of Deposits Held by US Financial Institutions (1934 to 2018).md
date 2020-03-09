@@ -10,7 +10,7 @@ gh-badge:
   - fork
   - follow
 tags:
-  - test
+  - deposits
 comments: true
 published: true
 date: '2020-03-06'
