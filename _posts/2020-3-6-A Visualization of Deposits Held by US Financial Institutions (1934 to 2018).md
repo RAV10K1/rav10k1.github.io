@@ -1,7 +1,11 @@
 ---
 layout: post
-title: 2020-3-6-Deposits Held by US Financial Institutions (1934 to 2018)
-subtitle: Welcome to my first blogpost!
+title: >-
+  2020-3-6-A Visualization of Deposits Held by US Financial Institutions (1934
+  to 2018)
+subtitle: >-
+  Welcome to my first blogpost! A visual take on the history of deposits in the
+  US.
 gh-repo: RAV10K1/rav10k1.github.io
 gh-badge:
   - star
