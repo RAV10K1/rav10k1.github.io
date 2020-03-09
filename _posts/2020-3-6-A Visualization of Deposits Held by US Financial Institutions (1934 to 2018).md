@@ -29,5 +29,11 @@ The United States is home to two of out of ten of the largest financial institut
 
 The above image depicts the number of financial institutions (FI's) doing business in the United States throughout this period. The trend appears to be relatively steady until 1984 where we see a rapid overall decline of the total number of FI's operating in the country to just 4,717 as of 2018 from a high of 14,496 institutions in 1984.
 
+## Growth of Deposits over time
+
+![total_dep.png]({{site.baseurl}}/img/total_dep.png)
+
+
+
 
 
