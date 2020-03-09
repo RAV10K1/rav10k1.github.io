@@ -3,9 +3,15 @@ layout: post
 title: A Visualization of Deposits Held by US Financial Institutions (1934 to 2018)
 subtitle: Welcome to my first blogpost!
 gh-repo: RAV10K1/rav10k1.github.io
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge:
+  - star
+  - fork
+  - follow
+tags:
+  - test
 comments: true
+published: true
+date: '2020-03-06'
 ---
 
 ![banks](img/architectural-design-architecture-banks-barclays-351264.jpg | width=100){: .center-block :}
