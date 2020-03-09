@@ -42,7 +42,7 @@ We can see that the growth of the total deposit base over the years including fo
 
 The bulk of deposits appear to be owned by private individuals and corporations with the rest held by the Federal Government along with State and other political subdivisions.
 
-![dep_own_snap.jpg]({{site.baseurl}}/img/dep_own_snap.jpg)
+![dep_own_snap.png]({{site.baseurl}}/img/dep_own_snap.png)
 
 On average the American public has held around 89% of the deposit base while the remaining 11% was held by Federal, State and Local government entities.
 
